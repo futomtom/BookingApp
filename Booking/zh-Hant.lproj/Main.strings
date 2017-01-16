@@ -1,0 +1,194 @@
+
+/* Class = "UIButton"; normalTitle = "Sign out"; ObjectID = "5NB-2W-SDq"; */
+"5NB-2W-SDq.normalTitle" = "Sign out";
+
+/* Class = "UIButton"; normalTitle = "週
+五"; ObjectID = "6NE-Y6-Oc2"; */
+"6NE-Y6-Oc2.normalTitle" = "週
+五";
+
+/* Class = "UILabel"; text = "Create an account"; ObjectID = "7aN-DM-at4"; */
+"7aN-DM-at4.text" = "Create an account";
+
+/* Class = "UITextField"; placeholder = "username"; ObjectID = "AYP-vr-fiQ"; */
+"AYP-vr-fiQ.placeholder" = "username";
+
+/* Class = "UILabel"; text = "Duration"; ObjectID = "Afh-du-f72"; */
+"Afh-du-f72.text" = "Duration";
+
+/* Class = "UILabel"; text = "30分鐘"; ObjectID = "Cig-qW-Gyl"; */
+"Cig-qW-Gyl.text" = "30分鐘";
+
+/* Class = "UILabel"; text = "Alex Fu"; ObjectID = "D6T-W2-3ri"; */
+"D6T-W2-3ri.text" = "Alex Fu";
+
+/* Class = "UINavigationItem"; title = "Setting"; ObjectID = "DfU-Yl-Ch1"; */
+"DfU-Yl-Ch1.title" = "Setting";
+
+/* Class = "UITextField"; placeholder = "email"; ObjectID = "DgU-wG-z3C"; */
+"DgU-wG-z3C.placeholder" = "email";
+
+/* Class = "UIButton"; normalTitle = "週
+日 "; ObjectID = "ECi-Lm-e43"; */
+"ECi-Lm-e43.normalTitle" = "週
+日 ";
+
+/* Class = "UIButton"; normalTitle = "週
+四 "; ObjectID = "EIp-KW-2th"; */
+"EIp-KW-2th.normalTitle" = "週
+四 ";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "FXf-pW-pxd"; */
+"FXf-pW-pxd.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "product"; ObjectID = "FcJ-Ut-xNI"; */
+"FcJ-Ut-xNI.text" = "product";
+
+/* Class = "UILabel"; text = "30分鐘"; ObjectID = "GP5-n8-pmb"; */
+"GP5-n8-pmb.text" = "30分鐘";
+
+/* Class = "UIButton"; normalTitle = "週
+三"; ObjectID = "NZC-wu-v9Y"; */
+"NZC-wu-v9Y.normalTitle" = "週
+三";
+
+/* Class = "UINavigationItem"; title = "訂單列表"; ObjectID = "OJg-kh-Sh2"; */
+"OJg-kh-Sh2.title" = "訂單列表";
+
+/* Class = "UIButton"; normalTitle = "週
+二"; ObjectID = "PKJ-pY-Kc2"; */
+"PKJ-pY-Kc2.normalTitle" = "週
+二";
+
+/* Class = "UILabel"; text = "設定營業日期"; ObjectID = "Ptv-WO-cwl"; */
+"Ptv-WO-cwl.text" = "設定營業日期";
+
+/* Class = "UILabel"; text = "300"; ObjectID = "RNO-GA-bQh"; */
+"RNO-GA-bQh.text" = "300";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "VcC-7M-4R0"; */
+"VcC-7M-4R0.text" = "Name";
+
+/* Class = "UILabel"; text = "300"; ObjectID = "W3a-AD-V8Y"; */
+"W3a-AD-V8Y.text" = "300";
+
+/* Class = "UITableViewController"; title = "訂單列表"; ObjectID = "WRG-qR-ebT"; */
+"WRG-qR-ebT.title" = "訂單列表";
+
+/* Class = "UILabel"; text = "Booking"; ObjectID = "XlR-6D-pNE"; */
+"XlR-6D-pNE.text" = "Booking";
+
+/* Class = "UIButton"; normalTitle = "週
+一"; ObjectID = "ZBD-RV-BHT"; */
+"ZBD-RV-BHT.normalTitle" = "週
+一";
+
+/* Class = "UIButton"; normalTitle = "週
+六"; ObjectID = "adZ-L3-N0d"; */
+"adZ-L3-N0d.normalTitle" = "週
+六";
+
+/* Class = "UILabel"; text = "Tilte"; ObjectID = "bRH-HR-m9z"; */
+"bRH-HR-m9z.text" = "Tilte";
+
+/* Class = "UINavigationItem"; title = "Online"; ObjectID = "bjE-ul-xNJ"; */
+"bjE-ul-xNJ.title" = "Online";
+
+/* Class = "UITextField"; placeholder = "duration"; ObjectID = "c3x-3h-lO4"; */
+"c3x-3h-lO4.placeholder" = "duration";
+
+/* Class = "UITableViewController"; title = "服務列表"; ObjectID = "cvS-Zm-TlW"; */
+"cvS-Zm-TlW.title" = "服務列表";
+
+/* Class = "UIBarButtonItem"; title = "Send"; ObjectID = "e5P-ig-zvd"; */
+"e5P-ig-zvd.title" = "Send";
+
+/* Class = "UITextField"; placeholder = "product name"; ObjectID = "g4K-nI-1HU"; */
+"g4K-nI-1HU.placeholder" = "product name";
+
+/* Class = "UINavigationItem"; title = "訂購"; ObjectID = "h5B-OW-wD3"; */
+"h5B-OW-wD3.title" = "訂購";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "hxW-pl-K5k"; */
+"hxW-pl-K5k.placeholder" = "Password";
+
+/* Class = "UINavigationItem"; title = "選擇"; ObjectID = "jPV-vw-JyJ"; */
+"jPV-vw-JyJ.title" = "選擇";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "ks0-fg-KE0"; */
+"ks0-fg-KE0.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "Bravo Company"; ObjectID = "lHJ-Gk-rie"; */
+"lHJ-Gk-rie.text" = "Bravo Company";
+
+/* Class = "UILabel"; text = "30分鐘"; ObjectID = "lOl-Zf-IAu"; */
+"lOl-Zf-IAu.text" = "30分鐘";
+
+/* Class = "UILabel"; text = "value"; ObjectID = "lfK-fz-mww"; */
+"lfK-fz-mww.text" = "value";
+
+/* Class = "UILabel"; text = "Tilte"; ObjectID = "lzb-Lk-5VM"; */
+"lzb-Lk-5VM.text" = "Tilte";
+
+/* Class = "UITextField"; placeholder = "price"; ObjectID = "mMP-bV-to5"; */
+"mMP-bV-to5.placeholder" = "price";
+
+/* Class = "UITableViewController"; title = "Online"; ObjectID = "oUo-Uh-r42"; */
+"oUo-Uh-r42.title" = "Online";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "oZ4-24-lCS"; */
+"oZ4-24-lCS.normalTitle" = "Logout";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "pBB-eC-kif"; */
+"pBB-eC-kif.placeholder" = "password";
+
+/* Class = "UIViewController"; title = "Add Service"; ObjectID = "pTW-UL-7C7"; */
+"pTW-UL-7C7.title" = "Add Service";
+
+/* Class = "UINavigationItem"; title = "服務列表"; ObjectID = "pXi-au-T1T"; */
+"pXi-au-T1T.title" = "服務列表";
+
+/* Class = "UILabel"; text = "value"; ObjectID = "qYb-Rq-psX"; */
+"qYb-Rq-psX.text" = "value";
+
+/* Class = "UILabel"; text = "300"; ObjectID = "qcw-AL-WHp"; */
+"qcw-AL-WHp.text" = "300";
+
+/* Class = "UILabel"; text = "service select"; ObjectID = "reQ-hD-qh0"; */
+"reQ-hD-qh0.text" = "service select";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sB0-jk-u0p"; */
+"sB0-jk-u0p.text" = "Label";
+
+/* Class = "UILabel"; text = "product"; ObjectID = "sEY-QC-HjM"; */
+"sEY-QC-HjM.text" = "product";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "tcZ-JP-8n3"; */
+"tcZ-JP-8n3.title" = "Item";
+
+/* Class = "UILabel"; text = "product"; ObjectID = "uUW-9J-fP6"; */
+"uUW-9J-fP6.text" = "product";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "ufw-i0-710"; */
+"ufw-i0-710.normalTitle" = "Sign up";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "v0P-3e-z2r"; */
+"v0P-3e-z2r.text" = "Title";
+
+/* Class = "UIBarButtonItem"; title = "done"; ObjectID = "v7W-Kd-wB8"; */
+"v7W-Kd-wB8.title" = "done";
+
+/* Class = "UILabel"; text = "Tilte"; ObjectID = "vO4-I0-xIN"; */
+"vO4-I0-xIN.text" = "Tilte";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "vRw-I3-Jav"; */
+"vRw-I3-Jav.normalTitle" = "Login";
+
+/* Class = "UITextField"; placeholder = "Name of the List"; ObjectID = "vgn-pk-8cG"; */
+"vgn-pk-8cG.placeholder" = "Name of the List";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "vz0-3C-AwT"; */
+"vz0-3C-AwT.text" = "Price";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "wJf-2g-4Pz"; */
+"wJf-2g-4Pz.normalTitle" = "Submit";

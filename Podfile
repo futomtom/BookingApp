@@ -1,0 +1,18 @@
+
+use_frameworks!
+target 'Booking' 
+pod 'Firebase/Core'
+pod 'Firebase/Database'
+pod 'Firebase/Messaging'
+pod 'Firebase/Auth'
+pod 'Firebase/Storage'
+pod 'SideMenu'
+pod 'BRYXBanner'
+pod 'ReachabilitySwift'
+pod 'FBSDKCoreKit'
+pod 'FBSDKLoginKit'
+pod 'GoogleSignIn'
+pod 'CustomizableActionSheet'
+pod 'Timepiece'
+pod 'Charts'
+pod 'AMScrollingNavbar'
